@@ -1,0 +1,3 @@
+CREATE DATABASE sql_proj;
+
+-- DROP DATABASE IF EXISTS sql_proj;
