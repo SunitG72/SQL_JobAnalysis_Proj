@@ -14,7 +14,7 @@ WITH top_paying_jobs AS (
         job_postings_fact.salary_year_avg IS NOT NULL
     ORDER BY
         job_postings_fact.salary_year_avg DESC
-    LIMIT 5
+    LIMIT 10
 )
 
 SELECT 
