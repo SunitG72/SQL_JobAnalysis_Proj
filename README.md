@@ -217,5 +217,5 @@ So from the analysis, these are some brief insights
 4. **Highest Overall Skill Salaries**: Legacy tools like SVN pays highest, at $400,000.
 5. **Most Optimal Skills**: Perl is relatively low demand at 26 requests but salary is high at $133,929, whereas Spark is very high demand at 231 requests and a not so far salary range at $116,744.
 
-### Closing Thoughs
+### Closing Thoughts
 This project has definitely leveled up my SQL skills and provided me valuable insights in the Data Analyst job field. The results helped in prioritizing which skills to learn and even which jobs to search for. Aspiring data analysts can find this very helpful and focus on high-demand, high-paying skills.
